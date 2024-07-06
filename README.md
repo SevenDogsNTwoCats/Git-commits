@@ -2,7 +2,7 @@
 
 ## Commits de git con buenas practicas
 
-Creando commits on buenas practicas de manera facil
+Creando commits con buenas practicas de manera más simple
 
 Manera de uso:
 
