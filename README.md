@@ -33,8 +33,9 @@ Agregar como comando:
   
 - Ahora se puede ejecutar el archivo desde cualquier ubicación con el comando gitcom
 
-![image](https://github.com/SevenDogsNTwoCats/Git-commits/assets/78670212/1f3f5ce6-8657-4d0d-8dad-168d9c14d66d)
-![image](https://github.com/SevenDogsNTwoCats/Git-commits/assets/78670212/3aa89110-b310-4f20-8b5e-5e51724ec58d)
+![image](https://github.com/SevenDogsNTwoCats/Git-commits/assets/78670212/2a6b11c8-706f-4a17-a10f-12963886224b)
+
+![image](https://github.com/SevenDogsNTwoCats/Git-commits/assets/78670212/8680c2f5-9030-4b97-bf81-dfea4aa7cd89)
 
 
 
